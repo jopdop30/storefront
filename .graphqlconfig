@@ -2,8 +2,8 @@
     "schemaPath": "./schema.graphql",
     "extensions": {
         "endpoints": {
-            "demo": "http://jamesrow.land:3000/shop-api",
-            "dev": "http://jamesrow.land:3000/shop-api"
+            "demo": "https://jamesrow.land:3000/shop-api",
+            "dev": "https://jamesrow.land:3000/shop-api"
         }
     }
 }
