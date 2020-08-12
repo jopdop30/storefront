@@ -4,7 +4,7 @@
 
 export const environment = {
     production: false,
-    apiHost: 'http://45.79.238.110:3000',
+    apiHost: 'http://jamesrow.land',
     apiPort: 3000,
     shopApiPath: 'shop-api',
     baseHref: '/',
